@@ -1,3 +1,15 @@
+## [1.0.0] - 2025-06-22
+
+65918cc Updated Workflow and package and license.
+bf62308 Initial Commit
+## [2.0.0] - 2025-06-22
+
+66a4e03 Updated Workflow and package and license.
+bf62308 Initial Commit
+## [1.0.0] - 2025-06-22
+
+d64128e Updated Workflow and package and license.
+bf62308 Initial Commit
 # Changelog
 
 All notable changes to this project will be documented in this file.
