@@ -1,7 +1,15 @@
+## [1.1.1] - 2025-07-12
+
 # Changelog
 
-## [1.0.0] - 2025-06-21
+## [1.1.0] - 2025-07-12
 
+- Improved the Copilot Metrics extension by streamlining the codebase and enhancing the user interface.
+- refactor: streamline Copilot metrics handling and improve UI components# Changelog
+
+## [1.0.0] - 2025-06-22
+
+- Updated Workflow and package and license.
 - Initial release of Copilot Metrics lite Dashboard extension.
 - Dashboard showing completions, lines, characters generated.
 - Per-file and per-language statistics.
