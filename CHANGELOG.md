@@ -1,4 +1,7 @@
-## [1.1.1] - 2025-07-12
+## [1.1.2] - 2025-07-12
+
+- Merge branch 'Master' of https://github.com/ssuriya1/copilot-metrics-ext into Master
+- Update bug fixes and improvements.## [1.1.1] - 2025-07-12
 
 # Changelog
 
