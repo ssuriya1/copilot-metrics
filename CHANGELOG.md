@@ -1,4 +1,6 @@
-## [2.0.0] - 2025-07-28
+## [2.0.1] - 2025-07-28
+
+- Updated readme and logo.## [2.0.0] - 2025-07-28
 
 - Updated package and pipeline.
 - Merge pull request #2 from ssuriya1/dependabot/npm_and_yarn/form-data-4.0.4

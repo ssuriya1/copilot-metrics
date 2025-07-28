@@ -2,8 +2,8 @@
 
 ## Disclaimer ⚠️
 
-[!IMPORTANT]
-This extension is an independent project created by [Your Name or Organization], and is not affiliated with, endorsed by, or supported by GitHub or Microsoft. It is designed to enhance your experience with GitHub and its services. Use of this extension is at your own discretion.
+> [!IMPORTANT]
+> This extension is an independent project and is not affiliated with, endorsed by, or supported by GitHub or Microsoft. It is designed to enhance your experience with GitHub and its services. Use of this extension is at your own discretion.
 
 ## Overview ✨
 
