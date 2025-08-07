@@ -1,3 +1,11 @@
+# Changelog
+## [2.1.0] - 2025-08-07
+
+- Merge pull request #4 from ssuriya1/dependabot/npm_and_yarn/tmp-0.2.4
+- chore(deps-dev): bump tmp from 0.2.3 to 0.2.4
+- Merge pull request #3 from ssuriya1/dependabot/npm_and_yarn/eslint/plugin-kit-0.3.4
+- Improved chat completion metrics
+- chore(deps-dev): bump @eslint/plugin-kit from 0.3.3 to 0.3.4
 ## [2.0.1] - 2025-07-28
 
 - Updated readme and logo.## [2.0.0] - 2025-07-28
@@ -10,8 +18,6 @@
 - chore(deps-dev): bump @eslint/plugin-kit from 0.3.2 to 0.3.3
 - Merge branch 'Master' of https://github.com/ssuriya1/copilot-metrics-ext into Master
 - Update bug fixes and improvements.## [1.1.1] - 2025-07-12
-
-# Changelog
 
 ## [1.1.0] - 2025-07-12
 
